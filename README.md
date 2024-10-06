@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="ar1380">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="roy328">
 </p>
 <hr/>
 
@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ar1380&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=roy328&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -43,8 +43,11 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ar1380&theme=tokyonight_duo&hide_border=true" alt="ar1380" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roy328&theme=tokyonight_duo&hide_border=true" alt="roy328" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
 ## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="roy328's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roy328&custom_title=roy328's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
