@@ -39,9 +39,6 @@
 
 ## 🔥 Streak Stats
 
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roy328&theme=tokyonight_duo&hide_border=true" alt="roy328" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
-</p>
+
 
 
