@@ -36,4 +36,31 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roy328&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roy328&theme=tokyonight_duo&hide_border=true" alt="roy328" />
+  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+</p>
+
+## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="roy328's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roy328&custom_title=roy328's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
+
+## 📊 Github Stats
+
+<img align="left" alt="roy328's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roy328&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="roy328's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy328&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+
+
+
+https://github.com/nboucaud/nboucaud-Stella-WebApp   git@github.com:nboucaud/nboucaud-Stella-WebApp.git
+https://github.com/rozam007/nboucaud-Stella-WebApp  git@github.com:rozam007/nboucaud-Stella-WebApp.git
+https://github.com/nboucaud/Amir-s-work  git@github.com:nboucaud/Amir-s-work.git
+https://github.com/srijanmukherjee/nboucaud-Stella-WebApp  git@github.com:srijanmukherjee/nboucaud-Stella-WebApp.git
 
