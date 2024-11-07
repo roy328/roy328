@@ -36,13 +36,6 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roy328&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔥 Streak Stats
-
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roy328&theme=tokyonight_duo&hide_border=true" alt="roy328" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
-</p>
-
 ## 📊 Github Stats
 
 <img align="left" alt="roy328's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roy328&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
