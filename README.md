@@ -33,13 +33,8 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roy328&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## ⚡ Recent GitHub Activity
-<br/>
- <img alt="roy328's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roy328&custom_title=roy328's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
 
 ## 📊 Github Stats
 
