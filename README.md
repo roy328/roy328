@@ -36,6 +36,11 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roy328&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="roy328's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roy328&custom_title=roy328's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
+
 ## 📊 Github Stats
 
 <img align="left" alt="roy328's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roy328&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
